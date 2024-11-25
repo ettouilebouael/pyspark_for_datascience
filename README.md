@@ -33,7 +33,7 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
   - Compréhension des algorithmes de machine learning, notamment la régression linéaire et les modèles basés sur les arbres de décision.
     
 - **Environnement de travail** :
-Vous pouvez choisir parmi les options suivantes pour configurer votre environnement :
+Vous pouvez choisir parmi les options suivantes :
   - En local sur votre machine :
     - Python 3.8 ou une version ultérieure.
     - Apache Spark 3.x.
