@@ -8,8 +8,8 @@ Bienvenue dans le repository officiel du cours **PySpark pour la Data Science**.
 - [Prérequis](#-prérequis)
 - [Organisation](#-organisation)
 - [Structure du repository](#-structure-du-repository)
-- [Recommendations de lecture](#-recommendation-de-lecture)
-- [Contact](#-Contact)
+- [Recommandations de lecture](#-recommandations-de-lecture)
+- [Contact](#-contact)
 
 ## 🎯 **À propos du cours**  
 
@@ -59,9 +59,14 @@ Vous pouvez choisir parmi les options suivantes pour configurer votre environnem
     ├── dm/             # Solutions des devoirs maisons
     └── README.md       # Ce fichier
 
-## 📜 **Recommendation de lecture**
+## 📚 **Recommandations de lecture**  
 
+Voici quelques ressources utiles :  
 
+- **📖 Documentation officielle de PySpark** : [Lien](https://spark.apache.org/docs/latest/api/python/index.html)  
+- **🔍 Principes de base de PySpark (Databricks)** : [Lien](https://learn.microsoft.com/fr-fr/azure/databricks/pyspark/basics)  
+- **💡 Feature Engineering pour la prévision de séries temporelles (Medium)** :  [Lien](https://medium.com/@soyoungluna/tutorial-feature-engineering-for-weekly-time-series-forecasting-in-pyspark-b207c41869f4)  
+- **⚙️ Créer un modèle Machine Learning avec Apache Spark MLlib (Microsoft)** : [Lien](https://learn.microsoft.com/fr-fr/fabric/data-science/fabric-sparkml-tutorial)  
 
 ## 💡 **Contact**
 Pour toute question ou suggestion, contactez-moi à ouael@mailbox.org ou ouvrez une issue sur ce repository.
