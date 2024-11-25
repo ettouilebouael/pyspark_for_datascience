@@ -34,12 +34,12 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
     
 - **Environnement de travail** :
 Vous pouvez choisir parmi les options suivantes pour configurer votre environnement :
-- En local sur votre machine :
-  - Python 3.8 ou une version ultérieure.
-  - Apache Spark 3.x.
-  - Un éditeur comme Jupyter Notebook ou un IDE tel que VS Code.
-- Sur Google Colab
-- Sur Databricks
+  - En local sur votre machine :
+    - Python 3.8 ou une version ultérieure.
+    - Apache Spark 3.x.
+    - Un éditeur comme Jupyter Notebook ou un IDE tel que VS Code.
+  - Sur Google Colab
+  - Sur Databricks
 
 ## 📅 **Organisation**  
 
@@ -54,7 +54,7 @@ Vous pouvez choisir parmi les options suivantes pour configurer votre environnem
     pyspark-data-science/
     ├── data/           # Données utilisées dans les exercices
     ├── cours/          # Slides ou Notebooks Jupyter pour les sessions de cours  
-    ├── td/             # Exercices pratiques
+    ├── td_énoncés/             # Exercices pratiques
     ├── td_corrigés/    # Correction des exercices pratiques
     ├── dm/             # Solutions des devoirs maisons
     └── README.md       # Ce fichier
