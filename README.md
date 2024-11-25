@@ -6,7 +6,7 @@ Bienvenue dans le repository officiel du cours **PySpark pour la Data Science**.
 
 - [À propos du cours](#-à-propos-du-cours)  
 - [Prérequis](#-prérequis)
-- [Organisation](#-Organisation)
+- [Organisation](#-organisation)
 - [Structure du repository](#-structure-du-repository)
 - [Recommendations de lecture](#-recommendation-de-lecture)
 - [Contact](#-Contact)
@@ -41,7 +41,7 @@ Vous pouvez choisir parmi les options suivantes pour configurer votre environnem
 - Sur Google Colab
 - Sur Databricks
 
-## 🗂️ **Organisation**  
+## 📅 **Organisation**  
 
 - TD1 (2H) : Introduction à Apache Spark et compréhension de ses principes.
 - TD2 (2H) : Développement de processus d'analyse de données et de Feature Engineering avec Spark SQL.
@@ -50,14 +50,14 @@ Vous pouvez choisir parmi les options suivantes pour configurer votre environnem
 - TD5 (2H) : Évaluation + Feedback sur les livrables
 
 ## 📂**Structure du repository**
-
-pyspark-data-science/
-├── data/           # Données utilisées dans les exercices/
-├── cours/          # Slides ou Notebooks Jupyter pour les sessions de cours  
-├── td/             # Exercies pratiques
-├── td_corrigés/    # Correctoin des exercices pratiques
-├── dm/             # Solutions des devoirs maisons
-└── README.md           # Ce fichier  
+    .
+    pyspark-data-science/
+    ├── data/           # Données utilisées dans les exercices
+    ├── cours/          # Slides ou Notebooks Jupyter pour les sessions de cours  
+    ├── td/             # Exercices pratiques
+    ├── td_corrigés/    # Correction des exercices pratiques
+    ├── dm/             # Solutions des devoirs maisons
+    └── README.md       # Ce fichier
 
 ## 📜**Recommendation de lecture**
 
