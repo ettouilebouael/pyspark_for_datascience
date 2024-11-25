@@ -66,7 +66,7 @@ Voici quelques ressources utiles :
 - **Documentation officielle de PySpark** : [Lien](https://spark.apache.org/docs/latest/api/python/index.html)  
 - **Principes de base de PySpark (Databricks)** : [Lien](https://learn.microsoft.com/fr-fr/azure/databricks/pyspark/basics)  
 - **Feature Engineering pour la prévision de séries temporelles (Medium)** :  [Lien](https://medium.com/@soyoungluna/tutorial-feature-engineering-for-weekly-time-series-forecasting-in-pyspark-b207c41869f4)  
-- **Créer un modèle Machine Learning avec Apache Spark MLlib (Microsoft)** : [Lien](https://learn.microsoft.com/fr-fr/fabric/data-science/fabric-sparkml-tutorial)  
+- **https://docs.databricks.com/en/_extras/notebooks/source/gbt-regression.html (Databricks)** : [Lien](https://docs.databricks.com/en/_extras/notebooks/source/gbt-regression.html)
 
 ## 💡 **Contact**
 Pour toute question ou suggestion, contactez-moi à ouael@mailbox.org ou ouvrez une issue sur ce repository.
