@@ -6,12 +6,12 @@ Bienvenue dans le repository officiel du cours **PySpark pour la Data Science**.
 
 - [À propos du cours](#-à-propos-du-cours)  
 - [Prérequis](#-prérequis)  
-- [Installation](#-installation)  
-- [Structure du repository](#-structure-du-repository)  
-- [Exemples de contenu](#-exemples-de-contenu)  
-- [Contributions](#-contributions)  
-- [Licence](#-licence)  
+- [Organisation](#-Organisation)  
+- [Structure du repository](#-structure-du-repository)
+- [Recommendations de lecture](#-recommendation-de-lecture)
+- [Contact](#-Contact)
 
+Contact
 ## 🎯 **À propos du cours**  
 
 Ce cours a été conçu pour :  
