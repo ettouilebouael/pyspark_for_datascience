@@ -1,4 +1,4 @@
-# **PySpark pour la Data Science** 🧠🔥  
+# **PySpark pour la Data Science**  
 
 Bienvenue dans le repository officiel du cours **PySpark pour la Data Science**. Ce cours explore les concepts fondamentaux et avancés de PySpark à travers des exemples pratiques et des cas d'utilisation liés à la data science.  
 
