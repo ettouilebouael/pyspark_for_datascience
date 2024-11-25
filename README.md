@@ -49,7 +49,7 @@ Vous pouvez choisir parmi les options suivantes pour configurer votre environnem
 - TD4 (2H) : Entraînement distribué d'algorithmes de Machine Learning avec Spark MLlib.
 - TD5 (2H) : Évaluation + Feedback sur les livrables
 
-## 📂**Structure du repository**
+## 📂 **Structure du repository**
     .
     pyspark-data-science/
     ├── data/           # Données utilisées dans les exercices
@@ -59,7 +59,7 @@ Vous pouvez choisir parmi les options suivantes pour configurer votre environnem
     ├── dm/             # Solutions des devoirs maisons
     └── README.md       # Ce fichier
 
-## 📜**Recommendation de lecture**
+## 📜 **Recommendation de lecture**
 
 
 
