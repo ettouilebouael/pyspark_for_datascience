@@ -52,7 +52,7 @@ Vous pouvez choisir parmi les options suivantes pour configurer votre environnem
 ## 📂 **Structure du repository**
     .
     pyspark-data-science/
-    ├── data/           # Données utilisées dans les exercices
+    ├── data/           # Données utilisées dans les cours et exercices
     ├── cours/          # Slides ou Notebooks Jupyter pour les sessions de cours  
     ├── td_énoncés/     # Exercices pratiques
     ├── td_corrigés/    # Correction des exercices pratiques
