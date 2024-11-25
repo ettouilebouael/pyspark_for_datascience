@@ -50,6 +50,7 @@ Vous pouvez choisir parmi les options suivantes pour configurer votre environnem
 - TD5 (2H) : Évaluation + Feedback sur les livrables
 
 ## 📂**Structure du repository**
+
 pyspark-data-science/
 ├── data/           # Données utilisées dans les exercices/
 ├── cours/          # Slides ou Notebooks Jupyter pour les sessions de cours  
