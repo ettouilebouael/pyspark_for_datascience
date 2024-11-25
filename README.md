@@ -41,7 +41,7 @@ Vous pouvez choisir parmi les options suivantes pour configurer votre environnem
 - Sur Google Colab
 - Sur Databricks
 
-## 💻 **Organisation** 
+## 🗂️ **Organisation** 
 - TD1 (2H) : Introduction à Apache Spark et compréhension de ses principes.
 - TD2 (2H) : Développement de processus d'analyse de données et de Feature Engineering avec Spark SQL.
 - TD3 (2H) : Développement avancé de processus d'analyse de données et de Feature Engineering avec Spark SQL.
@@ -57,7 +57,7 @@ pyspark-data-science/
 ├── dm/             # Solutions des devoirs maisons
 └── README.md           # Ce fichier  
 
-## **Recommendation de lecture**
+## 📜**Recommendation de lecture**
 
 
 
