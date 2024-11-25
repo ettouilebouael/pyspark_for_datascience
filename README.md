@@ -14,9 +14,9 @@ Bienvenue dans le repository officiel du cours **PySpark pour la Data Science**.
 ## 🎯 **À propos du cours**  
 
 Ce cours a été conçu pour :  
-- Enseigner les bases de PySpark, y compris la manipulation de RDDs et DataFrames.  
-- Explorer des applications de PySpark dans la data science : nettoyage de données, analyses exploratoires et modélisation.  
-- Introduire des concepts avancés tels que les fonctions fenêtre, les optimisations, et le machine learning avec MLlib.  
+- Introduire les fondamentaux de PySpark, y compris l'architecture, les principes du calcul distribué, ainsi que la manipulation des RDDs et DataFrames.
+- Explorer des applications de PySpark dans la data science : nettoyage de données, analyses exploratoires, feature engineering et modélisation.  
+- Introduire des concepts avancés tels que les fonctions fenêtre, les optimisations de code, et le machine learning avec MLlib.  
 
 ## 💻 **Prérequis**  
 
