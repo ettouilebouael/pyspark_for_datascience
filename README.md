@@ -23,7 +23,7 @@ Ce cours a été conçu pour :
 Avant de commencer, assurez-vous de disposer des éléments suivants : 
 
 - **Compétences non-techniques** :
-  - Une forte motivation et un goût prononcé de challenge.
+  - Une forte motivation et un goût prononcé pour le challenge.
   - Capacité à analyser des problèmes de manière logique et structurée.
   - Curiosité intellectuelle et envie d’explorer de nouveaux concepts.
 
