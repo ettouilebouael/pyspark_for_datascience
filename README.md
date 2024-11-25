@@ -28,8 +28,8 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
   - Curiosité intellectuelle et envie d’explorer de nouveaux concepts.
 
 - **Compétences techniques** :
-  - Maîtrise de Python et des bibliothèques associées : Pandas, Scikit-learn
-  - Maîtrise de SQL
+  - Niveau débutant-intermédiare en Python et ses bibliothèques associées : Pandas et Scikit-learn
+  - Niveau débutant-intermédiare en SQL
   - Compréhension des algorithmes de machine learning, notamment la régression linéaire et les modèles basés sur les arbres de décision.
     
 - **Environnement de travail** :
